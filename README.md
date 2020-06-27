@@ -11,3 +11,4 @@ Module 4 solution :- https://ad17y48.github.io/html_css_js_for_web_developers/mo
 Module 5 solution :- https://ad17y48.github.io/html_css_js_for_web_developers/module_5/index.html
 
 Also contains HTML CSS book by Jon Duckett and an instructional video by Yaakov Chaikin on how to commit codes on github repositories using CMD. 
+(The video is the property of John Hopkins umiversity and Coursera.org)
