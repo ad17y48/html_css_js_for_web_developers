@@ -1,4 +1,4 @@
-## Assignment Solutions to the HTML,CSS,Javascript for web developers course on coursera
+## Assignment Solutions to the 'HTML, CSS, Javascript for Web Developers' course by Johns Hopkins University on coursera
 
 Module 1 (Week 1) has a quiz assignment.
 
@@ -12,4 +12,4 @@ Module 1 (Week 1) has a quiz assignment.
 
 Also contains HTML CSS book by Jon Duckett and an instructional video by Yaakov Chaikin on how to commit codes on github repositories using CMD. 
 
-(I do not own the book nor the video, they are uploaded for reference purpose only. The book and video are the property of Jon Duckett and John Hopkins University respectively.)
+(I do not own the book nor the video, they are uploaded for reference purpose only. The book and video are the property of Jon Duckett and Johns Hopkins University respectively.)
